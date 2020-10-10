@@ -1,0 +1,2 @@
+# jerry-resolusi
+Resolusi kedepan
